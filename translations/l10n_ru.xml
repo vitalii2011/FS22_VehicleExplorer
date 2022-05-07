@@ -54,7 +54,7 @@
 		<text name="ad_load"								text="AD Загрузка" />
 		<text name="ad_unload"								text="AD Разгрузка" />
 		<text name="wear"									text="Износ" />
-		<text name="damage"									text="Повреждат" />
+		<text name="damage"									text="Повреждения" />
 		<text name="motor"									text="Двигатель" />		
 		<text name="turnedOn"								text="Заводиться" />
 		<text name="lights"									text="Свет" />
